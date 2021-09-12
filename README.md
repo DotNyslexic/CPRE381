@@ -20,4 +20,4 @@ In Project A we were tasked with creating a 32-bit arithmetic logic unit (ALU). 
 In Project B we moved on to making a single-cycle processor. My main task in my group was to ensure the instruction decoder was working properly. Pretty much every compoenent we created needed to be used in this processor, so there was a large number of files included in the final design. To verify, we used a test script provided by our professor.
 
 ###### Project C
-In our final project we were to turn our single-cycle processor into a pipelied processor. This involved adding some equality checks and adding the actual pipeline stages where needed. We mainly got the design of the pipeline processor down as this semsester was heavily affected by COVID-19.
+In our final project we were to turn our single-cycle processor into a pipelined processor. This involved adding some equality checks and adding the actual pipeline stages where needed. We mainly got the design of the pipeline processor down as this semsester was heavily affected by COVID-19.
