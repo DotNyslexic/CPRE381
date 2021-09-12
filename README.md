@@ -9,3 +9,6 @@ Create a unit to take the one's complement of a number. Also create a two to one
 
 ###### Lab 3
 Begin working with stored (register) values. Create a decoder and a MUX for the Microprocessor without Interlocked Pipelined Stages (MIPS) application. Finally, implement MIPS application that is capable of adding/subtracting values in addition to storing them.
+
+###### Lab 4
+Use the previously created MIPS app, but now store the calculated values in memory (RAM). Also create a signed number extender so components can communicate if they are not working with the same width bus.
