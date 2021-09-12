@@ -1,0 +1,61 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+
+entity singleCycleCPU is 
+
+generic(N: integer := 32;
+	DATA_WIDTH : natural := 32;
+	ADDR_WIDTH : natural := 10);
+
+end singleCycleCPU;
+
+architecture structure of singleCycleCPU is
+
+component MIPSAppBarrelShiftALU
+
+port(i_MIPSCLK   : in std_logic; -- Input clock to the processor
+	-- Register file inputs
+	i_RegFileReadRS, i_RegFileReadRT   : in std_logic_vector(4 downto 0);  -- Register read and write addresses
+	i_RegFileWriteEnable, i_ALUInputBsrc, i_ALUnAddSub  : in std_logic; -- Register write enable, immediate vs RT source select for ALU, and ALU add sub control
+	i_RegFileRes : in std_logic_vector(31 downto 0); -- Register reset control
+	i_MIPSImmediate   : in std_logic_vector(15 downto 0); -- MIPS immediate value to be added
+	-- Register file outputs
+	o_RegFileOutputRS,o_RegFileOutputRT  : out std_logic_vector(31 downto 0); -- Output RS and RT of register file
+	-- Source for the register file data
+	i_RegFileDatasrc : in std_logic; -- control whether register file reads from itself or the memory module
+	-- RAM write enable
+	i_RAMwe : in std_logic; -- Write enable for ram
+	-- OP control for ALU
+	i_ALUOpControl : in std_logic_vector(2 downto 0); -- operation control for ALU
+	-- Cotrol signal for LUI
+	i_LUI : in std_logic;
+	-- Input signal for rd
+	i_writeSignalRD : in std_logic_vector(4 downto 0);
+	-- Control signal for write register
+	i_WriteRegisterSel : in std_logic;
+	-- Barrel shifter inputs
+	i_sign_extended_barrel : in std_logic; -- Sign extender for barrel shifter control
+	i_left_shift_barrel : in std_logic; -- shift left and shift right commands for barrel shifter
+	i_arithmetic_barrel : in std_logic;
+	i_shift_amt_barrel : in std_logic_vector(4 downto 0); -- How much to shift the input to the barrel shifter 
+	i_shifterRSInputSelect : in std_logic; -- Select whether we want RS to be shifted or not
+	-- ALU outputs
+	o_Zero : out std_logic; -- Whether the output of the ALU is zero
+	o_Overflow : out std_logic; -- Whether the output of the ALU has overflow
+	o_Cout : out std_logic;
+	o_signExtended : out std_logic);-- The final carry of the last arithmetic operation for the ALU
+end component;
+
+component mem
+port 
+	(
+		clk		: in std_logic;
+		addr	        : in std_logic_vector((10-1) downto 0);
+		data	        : in std_logic_vector((32-1) downto 0);
+		we		: in std_logic := '1';
+		q		: out std_logic_vector((32-1) downto 0)
+	);
+end component;
+
+
+signal s_ReadAddress, 

@@ -1,0 +1,1970 @@
+m255
+K4
+z2
+!s11e vcom 2020.2 2020.04, Apr 19 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dU:/CprE381/projectb/CPUSingleCycle
+Eaddersubtractoralu
+Z1 w1602699865
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 148
+R0
+Z4 8U:/CprE381/projectb/CPUSingleCycle/AdderSubtractorALU.vhd
+Z5 FU:/CprE381/projectb/CPUSingleCycle/AdderSubtractorALU.vhd
+l0
+L4 1
+V81ijzJCHJ[6g<gl57hVd[1
+!s100 D58:9G:a_<X16Fa@KWkNh0
+Z6 OL;C;2020.2;71
+32
+Z7 !s110 1603506770
+!i10b 1
+Z8 !s108 1603506769.000000
+Z9 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/AdderSubtractorALU.vhd|
+Z10 !s107 U:/CprE381/projectb/CPUSingleCycle/AdderSubtractorALU.vhd|
+!i113 0
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+DEx4 work 18 addersubtractoralu 0 22 81ijzJCHJ[6g<gl57hVd[1
+!i122 148
+l38
+L13 56
+VM2R@Ed>nkWkk9gfaEn1bF2
+!s100 `0;XE@BAh;IQT`@CjAR]R0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Eandg2
+Z13 w1602699868
+R2
+R3
+!i122 149
+R0
+Z14 8U:/CprE381/projectb/CPUSingleCycle/andg2.vhd
+Z15 FU:/CprE381/projectb/CPUSingleCycle/andg2.vhd
+l0
+Z16 L23 1
+VQ@<<<@nlJ=eiIl4BJDFzW2
+!s100 YT?bGzEmcFo:DlnoC^B4_0
+R6
+32
+R7
+!i10b 1
+Z17 !s108 1603506770.000000
+Z18 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/andg2.vhd|
+Z19 !s107 U:/CprE381/projectb/CPUSingleCycle/andg2.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 5 andg2 0 22 Q@<<<@nlJ=eiIl4BJDFzW2
+!i122 149
+l32
+Z20 L31 6
+VJVOzCk?IH:iJ5bCRU`CK13
+!s100 I`@Z@UBObS]<7m8bPgKUS1
+R6
+32
+R7
+!i10b 1
+R17
+R18
+R19
+!i113 0
+R11
+R12
+Eandtwo
+R13
+R2
+R3
+!i122 150
+R0
+Z21 8U:/CprE381/projectb/CPUSingleCycle/andTwo.vhd
+Z22 FU:/CprE381/projectb/CPUSingleCycle/andTwo.vhd
+l0
+L4 1
+VDK7R@M2Z=]gC2H6:>D6PD0
+!s100 9G5Bl=9RL0Q4;;lZY<@ma3
+R6
+32
+R7
+!i10b 1
+R17
+Z23 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/andTwo.vhd|
+Z24 !s107 U:/CprE381/projectb/CPUSingleCycle/andTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 6 andtwo 0 22 DK7R@M2Z=]gC2H6:>D6PD0
+!i122 150
+l13
+Z25 L11 7
+VlP06P0C<lgZJ[67lIM:PX0
+!s100 R4Pn;CbzXlmji0ZUTjfd;0
+R6
+32
+R7
+!i10b 1
+R17
+R23
+R24
+!i113 0
+R11
+R12
+Ebarrelshifter
+R13
+Z26 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R3
+!i122 151
+R0
+Z27 8U:/CprE381/projectb/CPUSingleCycle/barrelShifter.vhd
+Z28 FU:/CprE381/projectb/CPUSingleCycle/barrelShifter.vhd
+l0
+L5 1
+V8lc`8lFfO@Ve]ackn_D:A0
+!s100 BUKVTRXPkBl8J=BBX1AMX2
+R6
+32
+Z29 !s110 1603506771
+!i10b 1
+R17
+Z30 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/barrelShifter.vhd|
+Z31 !s107 U:/CprE381/projectb/CPUSingleCycle/barrelShifter.vhd|
+!i113 0
+R11
+R12
+Abehavioral
+R26
+R2
+R3
+DEx4 work 13 barrelshifter 0 22 8lc`8lFfO@Ve]ackn_D:A0
+!i122 151
+l17
+L14 107
+VJTTdgm^]H1FS3JJf2HA_V3
+!s100 SjP^z8Y^6M>UKbZm2D<jV0
+R6
+32
+R29
+!i10b 1
+R17
+R30
+R31
+!i113 0
+R11
+R12
+Edff
+R13
+R2
+R3
+!i122 152
+R0
+Z32 8U:/CprE381/projectb/CPUSingleCycle/dff.vhd
+Z33 FU:/CprE381/projectb/CPUSingleCycle/dff.vhd
+l0
+L21 1
+V<R:lmjjDXa`]L14ceUIAn3
+!s100 mT_OLTf8f1nD0BMVi`22Q3
+R6
+32
+R29
+!i10b 1
+Z34 !s108 1603506771.000000
+Z35 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/dff.vhd|
+Z36 !s107 U:/CprE381/projectb/CPUSingleCycle/dff.vhd|
+!i113 0
+R11
+R12
+Amixed
+R2
+R3
+DEx4 work 3 dff 0 22 <R:lmjjDXa`]L14ceUIAn3
+!i122 152
+l35
+L31 29
+VMe1[^^c?@jk=`6K1ZJFGM0
+!s100 j3C[YCFRW8M@3<JaVm8?<1
+R6
+32
+R29
+!i10b 1
+R34
+R35
+R36
+!i113 0
+R11
+R12
+Efivebittwotoonemux
+Z37 w1602994630
+R2
+R3
+!i122 153
+R0
+Z38 8U:/CprE381/projectb/CPUSingleCycle/FiveBitTwoToOneMux.vhd
+Z39 FU:/CprE381/projectb/CPUSingleCycle/FiveBitTwoToOneMux.vhd
+l0
+L4 1
+VS1NAWPBkPJM9bD[QJ4j=@3
+!s100 R878c7>3KI<;CA>H3>GO12
+R6
+32
+R29
+!i10b 1
+R34
+Z40 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/FiveBitTwoToOneMux.vhd|
+Z41 !s107 U:/CprE381/projectb/CPUSingleCycle/FiveBitTwoToOneMux.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 18 fivebittwotoonemux 0 22 S1NAWPBkPJM9bD[QJ4j=@3
+!i122 153
+l13
+Z42 L11 10
+Vh4OKA8b9O<5>XEA[ol>R;2
+!s100 BU0EkAh3Y;h8Xc<8XB>IV2
+R6
+32
+R29
+!i10b 1
+R34
+R40
+R41
+!i113 0
+R11
+R12
+Efulladder
+R1
+R2
+R3
+!i122 154
+R0
+Z43 8U:/CprE381/projectb/CPUSingleCycle/FullAdder.vhd
+Z44 FU:/CprE381/projectb/CPUSingleCycle/FullAdder.vhd
+l0
+L4 1
+Vn8]R8:9GHX^g2bE_9EF`z0
+!s100 Am@k@bW[F7N>1l>3UjJ0n2
+R6
+32
+Z45 !s110 1603506772
+!i10b 1
+Z46 !s108 1603506772.000000
+Z47 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/FullAdder.vhd|
+Z48 !s107 U:/CprE381/projectb/CPUSingleCycle/FullAdder.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 9 fulladder 0 22 n8]R8:9GHX^g2bE_9EF`z0
+!i122 154
+l47
+L12 65
+V]VVNfR:kiM^m1D[Fke_2h2
+!s100 7ZeeMQGCMBT^3ecJ<`TXR0
+R6
+32
+R45
+!i10b 1
+R46
+R47
+R48
+!i113 0
+R11
+R12
+Efulladdernbit
+R1
+R2
+R3
+!i122 155
+R0
+Z49 8U:/CprE381/projectb/CPUSingleCycle/FullAdderNBit.vhd
+Z50 FU:/CprE381/projectb/CPUSingleCycle/FullAdderNBit.vhd
+l0
+L4 1
+V4PX`B<@1^m`ldQAUJe8lm3
+!s100 ]G3WCE09N:aj8h^CDNcl93
+R6
+32
+Z51 !s110 1603506773
+!i10b 1
+R46
+Z52 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/FullAdderNBit.vhd|
+Z53 !s107 U:/CprE381/projectb/CPUSingleCycle/FullAdderNBit.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 13 fulladdernbit 0 22 4PX`B<@1^m`ldQAUJe8lm3
+!i122 155
+l25
+L13 28
+VgaHo7<@`:AhRJ1<4<X_PZ1
+!s100 ES?nYz7Rma=Ygm<KEeifn3
+R6
+32
+R51
+!i10b 1
+R46
+R52
+R53
+!i113 0
+R11
+R12
+Efulladdernbitdataflow
+Z54 w1602699866
+R3
+R2
+R26
+!i122 156
+R0
+Z55 8U:/CprE381/projectb/CPUSingleCycle/FullAdderNBitDataflow.vhd
+Z56 FU:/CprE381/projectb/CPUSingleCycle/FullAdderNBitDataflow.vhd
+l0
+L4 1
+VTQ;^S=WgVh4RHhSh3bmVB1
+!s100 MoCgNh;H7GkJQmBmA@n]T1
+R6
+32
+R51
+!i10b 1
+Z57 !s108 1603506773.000000
+Z58 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/FullAdderNBitDataflow.vhd|
+Z59 !s107 U:/CprE381/projectb/CPUSingleCycle/FullAdderNBitDataflow.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R3
+R2
+R26
+DEx4 work 21 fulladdernbitdataflow 0 22 TQ;^S=WgVh4RHhSh3bmVB1
+!i122 156
+l14
+L12 7
+VZ35h5?CzJPG7O1zFm[@eR1
+!s100 XVfR]3g?lcAb<DSXXeRzG3
+R6
+32
+R51
+!i10b 1
+R57
+R58
+R59
+!i113 0
+R11
+R12
+Einvg
+R13
+R2
+R3
+!i122 157
+R0
+Z60 8U:/CprE381/projectb/CPUSingleCycle/invg.vhd
+Z61 FU:/CprE381/projectb/CPUSingleCycle/invg.vhd
+l0
+R16
+VQ?6hb9ePk@>kZZ9k]hNSO3
+!s100 _XK?_^5z0Rm1<k12?;5R?2
+R6
+32
+R51
+!i10b 1
+R57
+Z62 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/invg.vhd|
+Z63 !s107 U:/CprE381/projectb/CPUSingleCycle/invg.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 4 invg 0 22 Q?6hb9ePk@>kZZ9k]hNSO3
+!i122 157
+l31
+L30 6
+Vch>li:oKYZkCO5]GamViK1
+!s100 bk7I76o8e1LURdoZEQb8H0
+R6
+32
+R51
+!i10b 1
+R57
+R62
+R63
+!i113 0
+R11
+R12
+Emem
+Z64 w1602699869
+R26
+R2
+R3
+!i122 158
+R0
+Z65 8U:/CprE381/projectb/CPUSingleCycle/mem.vhd
+Z66 FU:/CprE381/projectb/CPUSingleCycle/mem.vhd
+l0
+L8 1
+Vl8<PCiN;cU;BN3M[A<;IE3
+!s100 fRlcaiTJZJ1H;nZh;8=LI3
+R6
+32
+Z67 !s110 1603506774
+!i10b 1
+R57
+Z68 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/mem.vhd|
+Z69 !s107 U:/CprE381/projectb/CPUSingleCycle/mem.vhd|
+!i113 0
+R11
+R12
+Artl
+R26
+R2
+R3
+DEx4 work 3 mem 0 22 l8<PCiN;cU;BN3M[A<;IE3
+!i122 158
+l37
+L27 24
+V`6^NbPhKNmSBg:`:Un8;g3
+!s100 OI8_3><BhDkT3l3n8`OXd3
+R6
+32
+R67
+!i10b 1
+R57
+R68
+R69
+!i113 0
+R11
+R12
+Emips_processor
+Z70 w1603505635
+R2
+R3
+!i122 159
+R0
+Z71 8U:/CprE381/projectb/CPUSingleCycle/MIPS_Processor.vhd
+Z72 FU:/CprE381/projectb/CPUSingleCycle/MIPS_Processor.vhd
+l0
+L20 1
+V:o>C8KMfc[QmXhUL_3eIH3
+!s100 ^i1^b5_W1>L_al]g]Ha6H1
+R6
+32
+R67
+!i10b 1
+Z73 !s108 1603506774.000000
+Z74 !s90 -reportprogress|300|-work|work|U:/CprE381/projectb/CPUSingleCycle/MIPS_Processor.vhd|
+Z75 !s107 U:/CprE381/projectb/CPUSingleCycle/MIPS_Processor.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 14 mips_processor 0 22 :o>C8KMfc[QmXhUL_3eIH3
+!i122 159
+l156
+L32 284
+VBLRDRk5CFmCTFHUVC3VIN3
+!s100 9FKJeiGgT>DTTG:I8A`8D1
+R6
+32
+R67
+!i10b 1
+R73
+R74
+R75
+!i113 0
+R11
+R12
+Emipsappbarrelshiftalu
+Z76 w1603502877
+R2
+R3
+!i122 160
+R0
+Z77 8U:/CprE381/projectb/CPUSingleCycle/MIPSAppBarrelShiftALU.vhd
+Z78 FU:/CprE381/projectb/CPUSingleCycle/MIPSAppBarrelShiftALU.vhd
+l0
+L4 1
+VO9MSXKNa9RaX83zMzW@4<3
+!s100 zce6RIICY]LTS=^3e>W>a0
+R6
+32
+R67
+!i10b 1
+R73
+Z79 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/MIPSAppBarrelShiftALU.vhd|
+Z80 !s107 U:/CprE381/projectb/CPUSingleCycle/MIPSAppBarrelShiftALU.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 21 mipsappbarrelshiftalu 0 22 O9MSXKNa9RaX83zMzW@4<3
+!i122 160
+l109
+L43 148
+VIBkJL<;HACi`?^ao0`]Lm1
+!s100 e3aZ[dM2OR3H7AinXH>_o3
+R6
+32
+R67
+!i10b 1
+R73
+R79
+R80
+!i113 0
+R11
+R12
+Emipsapptwo
+R54
+R2
+R3
+!i122 161
+R0
+Z81 8U:/CprE381/projectb/CPUSingleCycle/MIPSAppTwo.vhd
+Z82 FU:/CprE381/projectb/CPUSingleCycle/MIPSAppTwo.vhd
+l0
+L4 1
+VMKoToKekTP@l3E[TkFZQ13
+!s100 4IFKIQD0<:C7;A[V0MXSh1
+R6
+32
+Z83 !s110 1603506775
+!i10b 1
+Z84 !s108 1603506775.000000
+Z85 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/MIPSAppTwo.vhd|
+Z86 !s107 U:/CprE381/projectb/CPUSingleCycle/MIPSAppTwo.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 10 mipsapptwo 0 22 MKoToKekTP@l3E[TkFZQ13
+!i122 161
+l69
+L20 119
+VGiZ^;68f<iBT60jhU@_DG0
+!s100 9kMShQII2DJjAiY>DUVT;2
+R6
+32
+R83
+!i10b 1
+R84
+R85
+R86
+!i113 0
+R11
+R12
+Emipsinstructiondecoder
+Z87 w1603505369
+R2
+R3
+!i122 162
+R0
+Z88 8U:/CprE381/projectb/CPUSingleCycle/MIPSInstructionDecoder.vhd
+Z89 FU:/CprE381/projectb/CPUSingleCycle/MIPSInstructionDecoder.vhd
+l0
+L4 1
+VL<GP9HJOgZD2eJQWE:BGj0
+!s100 mmMMj;`FR^Z4QFHD2FbjO1
+R6
+32
+R83
+!i10b 1
+R84
+Z90 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/MIPSInstructionDecoder.vhd|
+Z91 !s107 U:/CprE381/projectb/CPUSingleCycle/MIPSInstructionDecoder.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 22 mipsinstructiondecoder 0 22 L<GP9HJOgZD2eJQWE:BGj0
+!i122 162
+l31
+L29 584
+VzJ1Cj2ISBQOMZJg]E9VLX0
+!s100 =e=^lVdbB?TG<lMGjgjGR3
+R6
+32
+R83
+!i10b 1
+R84
+R90
+R91
+!i113 0
+R11
+R12
+Emipssinglecyclecpu
+Z92 w1603245952
+R2
+R3
+!i122 163
+R0
+Z93 8U:/CprE381/projectb/CPUSingleCycle/MIPSsingleCycleCPU.vhd
+Z94 FU:/CprE381/projectb/CPUSingleCycle/MIPSsingleCycleCPU.vhd
+l0
+L4 1
+VITjTBgaYYkUi]z1V6:MLQ1
+!s100 hjJlMd@n[WzVE;F<5jb:C0
+R6
+32
+Z95 !s110 1603506776
+!i10b 1
+R84
+Z96 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/MIPSsingleCycleCPU.vhd|
+Z97 !s107 U:/CprE381/projectb/CPUSingleCycle/MIPSsingleCycleCPU.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 18 mipssinglecyclecpu 0 22 4<Bm?gJK3dO6P5Q<lgJ;T1
+!i122 23
+l112
+L20 164
+V1f9AL;zH2_ga]efZXWiha1
+!s100 4V13bXG_nhLV=K9=PJ]V`3
+R6
+32
+!s110 1602995432
+!i10b 1
+!s108 1602995431.000000
+R96
+R97
+!i113 0
+R11
+R12
+Emuxeighttoone
+R54
+R2
+R3
+!i122 164
+R0
+Z98 8U:/CprE381/projectb/CPUSingleCycle/MuxEightToOne.vhd
+Z99 FU:/CprE381/projectb/CPUSingleCycle/MuxEightToOne.vhd
+l0
+L4 1
+VaWS2n49Xa2izB8M2zYJIC3
+!s100 zGFhoQiCLZDTUKJWUS;_62
+R6
+32
+R95
+!i10b 1
+Z100 !s108 1603506776.000000
+Z101 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/MuxEightToOne.vhd|
+Z102 !s107 U:/CprE381/projectb/CPUSingleCycle/MuxEightToOne.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 13 muxeighttoone 0 22 aWS2n49Xa2izB8M2zYJIC3
+!i122 164
+l21
+L19 17
+VdCJhRJJ[GnZS8:[BBabe73
+!s100 dYlcgbTIG4`Mn`kXX[YT23
+R6
+32
+R95
+!i10b 1
+R100
+R101
+R102
+!i113 0
+R11
+R12
+Enandtwo
+R54
+R2
+R3
+!i122 165
+R0
+Z103 8U:/CprE381/projectb/CPUSingleCycle/NANDTwo.vhd
+Z104 FU:/CprE381/projectb/CPUSingleCycle/NANDTwo.vhd
+l0
+L4 1
+VROh3f;lc1HBiOHfldaK^a1
+!s100 Y6lSci9HO]L2Mh>@5mCnB0
+R6
+32
+R95
+!i10b 1
+R100
+Z105 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/NANDTwo.vhd|
+Z106 !s107 U:/CprE381/projectb/CPUSingleCycle/NANDTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 7 nandtwo 0 22 ROh3f;lc1HBiOHfldaK^a1
+!i122 165
+l13
+R25
+VJFmOnYVBbkmd6gAKC]eb91
+!s100 3C4VZoO[23hOc4e@Kf@`B3
+R6
+32
+R95
+!i10b 1
+R100
+R105
+R106
+!i113 0
+R11
+R12
+Enbitregister
+R54
+R2
+R3
+!i122 166
+R0
+Z107 8U:/CprE381/projectb/CPUSingleCycle/NBitRegister.vhd
+Z108 FU:/CprE381/projectb/CPUSingleCycle/NBitRegister.vhd
+l0
+L4 1
+VPNl09knXLVCmRFGaPzE3Q0
+!s100 iGl:=HHDlaWGZEYZLGaEf2
+R6
+32
+Z109 !s110 1603506777
+!i10b 1
+Z110 !s108 1603506777.000000
+Z111 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/NBitRegister.vhd|
+Z112 !s107 U:/CprE381/projectb/CPUSingleCycle/NBitRegister.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 12 nbitregister 0 22 PNl09knXLVCmRFGaPzE3Q0
+!i122 166
+l25
+L15 22
+VJVnLM0SKUL8V^hgQGU85Z0
+!s100 2VFL=EVRBGH6203OD7mE=1
+R6
+32
+R109
+!i10b 1
+R110
+R111
+R112
+!i113 0
+R11
+R12
+Enortwo
+R54
+R2
+R3
+!i122 167
+R0
+Z113 8U:/CprE381/projectb/CPUSingleCycle/NORTwo.vhd
+Z114 FU:/CprE381/projectb/CPUSingleCycle/NORTwo.vhd
+l0
+L4 1
+V47SHncQXBLLOF7XYRnkB41
+!s100 VP>FZm?CnYkY`GXBTQYJU2
+R6
+32
+R109
+!i10b 1
+R110
+Z115 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/NORTwo.vhd|
+Z116 !s107 U:/CprE381/projectb/CPUSingleCycle/NORTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 6 nortwo 0 22 47SHncQXBLLOF7XYRnkB41
+!i122 167
+l13
+R25
+V][ne>_g4026^o]IacYGcb1
+!s100 <j^DAUK>ZI79j2h;2<3:z2
+R6
+32
+R109
+!i10b 1
+R110
+R115
+R116
+!i113 0
+R11
+R12
+Eonebitalu
+R64
+R2
+R3
+!i122 168
+R0
+Z117 8U:/CprE381/projectb/CPUSingleCycle/oneBitALU.vhd
+Z118 FU:/CprE381/projectb/CPUSingleCycle/oneBitALU.vhd
+l0
+L4 1
+Ve:nRDCY[nj^o7jUI>Y@hA3
+!s100 OB[N70e;ZgLSVbC3BUAi>2
+R6
+32
+R109
+!i10b 1
+R110
+Z119 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/oneBitALU.vhd|
+Z120 !s107 U:/CprE381/projectb/CPUSingleCycle/oneBitALU.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 9 onebitalu 0 22 e:nRDCY[nj^o7jUI>Y@hA3
+!i122 168
+l91
+L19 140
+VQHmUGjQBimRn9?CIXizkA2
+!s100 ;`[ZRIhdk4zW`]Z=Kic132
+R6
+32
+R109
+!i10b 1
+R110
+R119
+R120
+!i113 0
+R11
+R12
+Eonescomplement
+R54
+R2
+R3
+!i122 169
+R0
+Z121 8U:/CprE381/projectb/CPUSingleCycle/OnesComplement.vhd
+Z122 FU:/CprE381/projectb/CPUSingleCycle/OnesComplement.vhd
+l0
+L4 1
+V`S[[ZA^YbaOF4c`G>Q^7`1
+!s100 X5n2PY?1P=zCzFT:nR_<:2
+R6
+32
+Z123 !s110 1603506778
+!i10b 1
+Z124 !s108 1603506778.000000
+Z125 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/OnesComplement.vhd|
+Z126 !s107 U:/CprE381/projectb/CPUSingleCycle/OnesComplement.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 14 onescomplement 0 22 `S[[ZA^YbaOF4c`G>Q^7`1
+!i122 169
+l20
+L11 18
+V[C8Xk9X4MM0chAhVK9mzb0
+!s100 ^PAdf^ILi02:4lh6;XmFh0
+R6
+32
+R123
+!i10b 1
+R124
+R125
+R126
+!i113 0
+R11
+R12
+Eonescomplementdataflow
+Z127 w1602699867
+R2
+R3
+!i122 170
+R0
+Z128 8U:/CprE381/projectb/CPUSingleCycle/OnesComplementDataflow.vhd
+Z129 FU:/CprE381/projectb/CPUSingleCycle/OnesComplementDataflow.vhd
+l0
+L4 1
+VH2LVKZcLN1UBjGb6lEYL63
+!s100 BD1L^OVDWjNGz7jbZV`OD1
+R6
+32
+R123
+!i10b 1
+R124
+Z130 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/OnesComplementDataflow.vhd|
+Z131 !s107 U:/CprE381/projectb/CPUSingleCycle/OnesComplementDataflow.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 22 onescomplementdataflow 0 22 H2LVKZcLN1UBjGb6lEYL63
+!i122 170
+l13
+R25
+VMQi^f60n^[XT;k?Lg:06B2
+!s100 P>=aDE`@bE2lM5dc6Bki33
+R6
+32
+R123
+!i10b 1
+R124
+R130
+R131
+!i113 0
+R11
+R12
+Eorg2
+R64
+R2
+R3
+!i122 171
+R0
+Z132 8U:/CprE381/projectb/CPUSingleCycle/org2.vhd
+Z133 FU:/CprE381/projectb/CPUSingleCycle/org2.vhd
+l0
+R16
+V[C`FCj=kL0CTBYLlbjJzD3
+!s100 bGQ1F9eW^Q17OoL9h4g7z2
+R6
+32
+R123
+!i10b 1
+R124
+Z134 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/org2.vhd|
+Z135 !s107 U:/CprE381/projectb/CPUSingleCycle/org2.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 4 org2 0 22 [C`FCj=kL0CTBYLlbjJzD3
+!i122 171
+l32
+R20
+VNHGn>Kh:]BEh4o]ImiG<d3
+!s100 h5_AzR3TdRA0a_K=dQ>mI2
+R6
+32
+R123
+!i10b 1
+R124
+R134
+R135
+!i113 0
+R11
+R12
+Eortwo
+R64
+R2
+R3
+!i122 172
+R0
+Z136 8U:/CprE381/projectb/CPUSingleCycle/orTwo.vhd
+Z137 FU:/CprE381/projectb/CPUSingleCycle/orTwo.vhd
+l0
+L4 1
+V6hBW`9]LF1ekRnIUF1JY93
+!s100 33T?Y;oI;;fkIdNRd;E;E0
+R6
+32
+Z138 !s110 1603506779
+!i10b 1
+Z139 !s108 1603506779.000000
+Z140 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/orTwo.vhd|
+Z141 !s107 U:/CprE381/projectb/CPUSingleCycle/orTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 5 ortwo 0 22 6hBW`9]LF1ekRnIUF1JY93
+!i122 172
+l13
+R25
+V@?k@`G8[Cmi0BJ9z:XPM^2
+!s100 38LTd0@B?fSM>?b;U1^2A3
+R6
+32
+R138
+!i10b 1
+R139
+R140
+R141
+!i113 0
+R11
+R12
+Eprogramcounter
+R127
+R2
+R3
+!i122 173
+R0
+Z142 8U:/CprE381/projectb/CPUSingleCycle/ProgramCounter.vhd
+Z143 FU:/CprE381/projectb/CPUSingleCycle/ProgramCounter.vhd
+l0
+L4 1
+V:QXj@l3Cbf7N7AkinoZ3:3
+!s100 cKD@T^7;o]llFnUgO>5O01
+R6
+32
+R138
+!i10b 1
+R139
+Z144 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ProgramCounter.vhd|
+Z145 !s107 U:/CprE381/projectb/CPUSingleCycle/ProgramCounter.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 14 programcounter 0 22 :QXj@l3Cbf7N7AkinoZ3:3
+!i122 173
+l33
+L13 38
+V[SXWgOja1NoGT@L3b?WXJ3
+!s100 mMYj@kF?cE7BfR8Eb4_hL1
+R6
+32
+R138
+!i10b 1
+R139
+R144
+R145
+!i113 0
+R11
+R12
+Eregisterfile
+Z146 w1603482994
+R2
+R3
+!i122 174
+R0
+Z147 8U:/CprE381/projectb/CPUSingleCycle/RegisterFile.vhd
+Z148 FU:/CprE381/projectb/CPUSingleCycle/RegisterFile.vhd
+l0
+L4 1
+V=MBa<739h4Zf9UE<CdLf[3
+!s100 OI>hX_>T>^:J7PDLF5UWi2
+R6
+32
+Z149 !s110 1603506780
+!i10b 1
+R139
+Z150 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/RegisterFile.vhd|
+Z151 !s107 U:/CprE381/projectb/CPUSingleCycle/RegisterFile.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 12 registerfile 0 22 =MBa<739h4Zf9UE<CdLf[3
+!i122 174
+l55
+L20 142
+VCH`_iPa0VNlhkzO1<?D4H2
+!s100 g7=JEK[]NlEPkO`^LIJzl3
+R6
+32
+R149
+!i10b 1
+R139
+R150
+R151
+!i113 0
+R11
+R12
+Esetlessthan
+R127
+R2
+R3
+!i122 175
+R0
+Z152 8U:/CprE381/projectb/CPUSingleCycle/SetLessThan.vhd
+Z153 FU:/CprE381/projectb/CPUSingleCycle/SetLessThan.vhd
+l0
+L4 1
+VacA7BZnYB7Ydf1Kkf_K?X2
+!s100 G?F`X[:S@_W?Z8QioljJl0
+R6
+32
+R149
+!i10b 1
+Z154 !s108 1603506780.000000
+Z155 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/SetLessThan.vhd|
+Z156 !s107 U:/CprE381/projectb/CPUSingleCycle/SetLessThan.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 11 setlessthan 0 22 acA7BZnYB7Ydf1Kkf_K?X2
+!i122 175
+l12
+L10 8
+VS6KAF90>XVnLI;ezF^]k00
+!s100 6;D?n7F5;KD0eclOBQ>Hm3
+R6
+32
+R149
+!i10b 1
+R154
+R155
+R156
+!i113 0
+R11
+R12
+Eshifteralu
+Z157 w1603505070
+R2
+R3
+!i122 176
+R0
+Z158 8U:/CprE381/projectb/CPUSingleCycle/shifterALU.vhd
+Z159 FU:/CprE381/projectb/CPUSingleCycle/shifterALU.vhd
+l0
+L4 1
+V4=^K_3^5e<_L43KW>Zm5Z0
+!s100 gJ<`k441OjzF]<Ci<FW?j0
+R6
+32
+Z160 !s110 1603506781
+!i10b 1
+R154
+Z161 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/shifterALU.vhd|
+Z162 !s107 U:/CprE381/projectb/CPUSingleCycle/shifterALU.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 10 shifteralu 0 22 4=^K_3^5e<_L43KW>Zm5Z0
+!i122 176
+l70
+L31 71
+V9goNOcE;l<=dNoK`DZN>E0
+!s100 B01VnT6Nlz0N6Pgz0Qzhc3
+R6
+32
+R160
+!i10b 1
+R154
+R161
+R162
+!i113 0
+R11
+R12
+Esignednumberextender
+R127
+R2
+R3
+!i122 177
+R0
+Z163 8U:/CprE381/projectb/CPUSingleCycle/SignedNumberExtender.vhd
+Z164 FU:/CprE381/projectb/CPUSingleCycle/SignedNumberExtender.vhd
+l0
+L4 1
+V4AhLfRmJ>]HJh5<e>bJa;0
+!s100 X77^31E7iLA9XbF`IReUe0
+R6
+32
+R160
+!i10b 1
+Z165 !s108 1603506781.000000
+Z166 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/SignedNumberExtender.vhd|
+Z167 !s107 U:/CprE381/projectb/CPUSingleCycle/SignedNumberExtender.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 20 signednumberextender 0 22 4AhLfRmJ>]HJh5<e>bJa;0
+!i122 177
+l15
+L10 17
+V?V7WC807LXnZQ1QFazED00
+!s100 BQDKJIDfYU^;DSVW9C97I0
+R6
+32
+R160
+!i10b 1
+R165
+R166
+R167
+!i113 0
+R11
+R12
+Etb_dmem
+Z168 w1602699870
+R26
+R2
+R3
+!i122 178
+R0
+Z169 8U:/CprE381/projectb/CPUSingleCycle/tb_dmem.vhd
+Z170 FU:/CprE381/projectb/CPUSingleCycle/tb_dmem.vhd
+l0
+L5 1
+VadW_K4IMPC8O:`?bc;Nm41
+!s100 R=A?FDD=TR?o11c6dzJTc2
+R6
+32
+R160
+!i10b 1
+R165
+Z171 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_dmem.vhd|
+Z172 !s107 U:/CprE381/projectb/CPUSingleCycle/tb_dmem.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R26
+R2
+R3
+DEx4 work 7 tb_dmem 0 22 adW_K4IMPC8O:`?bc;Nm41
+!i122 178
+l40
+L16 372
+Vne@]bcV`n1IbA4kFOSJoT0
+!s100 @^AEN@KQhM[N9O?RUZJ;f2
+R6
+32
+R160
+!i10b 1
+R165
+R171
+R172
+!i113 0
+R11
+R12
+Etb_mipsappbarrelshiftalu
+R64
+R2
+R3
+!i122 179
+R0
+Z173 8U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppBarrelShiftALU.vhd
+Z174 FU:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppBarrelShiftALU.vhd
+l0
+L4 1
+V@Y<jkNW><6RQaHAhQ7gCG3
+!s100 <1Wl>Hb@2:P2aINdf?QY?2
+R6
+32
+Z175 !s110 1603506782
+!i10b 1
+Z176 !s108 1603506782.000000
+Z177 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppBarrelShiftALU.vhd|
+Z178 !s107 U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppBarrelShiftALU.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 24 tb_mipsappbarrelshiftalu 0 22 @Y<jkNW><6RQaHAhQ7gCG3
+!i122 179
+l50
+L13 855
+Vnlf7BRQHMMVWl6<A0oz[A2
+!s100 1N_1SKik:e0d=bZ;kfmKf2
+R6
+32
+R175
+!i10b 1
+R176
+R177
+R178
+!i113 0
+R11
+R12
+Etb_mipsapptwo
+R64
+R2
+R3
+!i122 180
+R0
+Z179 8U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppTwo.vhd
+Z180 FU:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppTwo.vhd
+l0
+L4 1
+ViQBK>5MkN8I]`Xlh8IcfF1
+!s100 3c>DN_d_O8kH1][V=<iC_2
+R6
+32
+R175
+!i10b 1
+R176
+Z181 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppTwo.vhd|
+Z182 !s107 U:/CprE381/projectb/CPUSingleCycle/tb_MIPSAppTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 13 tb_mipsapptwo 0 22 iQBK>5MkN8I]`Xlh8IcfF1
+!i122 180
+l35
+L13 533
+VBHj^E9ZSmdY1Cl0EM3A`O1
+!s100 9?I[S688eH_o5VR[B4lGU2
+R6
+32
+R175
+!i10b 1
+R176
+R181
+R182
+!i113 0
+R11
+R12
+Etb_signednumberextender
+R64
+R2
+R3
+!i122 181
+R0
+Z183 8U:/CprE381/projectb/CPUSingleCycle/tb_SignedNumberExtender.vhd
+Z184 FU:/CprE381/projectb/CPUSingleCycle/tb_SignedNumberExtender.vhd
+l0
+L4 1
+VPM<lk1P=4gFJQz4M@mMez1
+!s100 LBbMoedTdb7mennmUi80D2
+R6
+32
+Z185 !s110 1603506783
+!i10b 1
+Z186 !s108 1603506783.000000
+Z187 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_SignedNumberExtender.vhd|
+Z188 !s107 U:/CprE381/projectb/CPUSingleCycle/tb_SignedNumberExtender.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 23 tb_signednumberextender 0 22 PM<lk1P=4gFJQz4M@mMez1
+!i122 181
+l18
+L8 36
+V_<EPFk2>gK9A57?h<XRf=0
+!s100 Uh0Vinb2foZl=Cz4b2BPH0
+R6
+32
+R185
+!i10b 1
+R186
+R187
+R188
+!i113 0
+R11
+R12
+Etb_simplifiedmipsprocessor
+w1603233699
+DPx3 std 3 env 0 22 d?`1ck@NdeD@H3RZG7FgZ2
+DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R2
+R3
+!i122 182
+R0
+8U:/CprE381/projectb/CPUSingleCycle/tb_SimplifiedMIPSProcessor.vhd
+FU:/CprE381/projectb/CPUSingleCycle/tb_SimplifiedMIPSProcessor.vhd
+l0
+L25 1
+V_Sk49gG_<nDjh_nG^ZfVO2
+!s100 U@Wch0EJRK5@:W:0E@<RU1
+R6
+32
+R185
+!i10b 1
+R186
+!s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_SimplifiedMIPSProcessor.vhd|
+!s107 U:/CprE381/projectb/CPUSingleCycle/tb_SimplifiedMIPSProcessor.vhd|
+!i113 0
+R11
+R12
+Etb_zeroextender
+R64
+R2
+R3
+!i122 183
+R0
+Z189 8U:/CprE381/projectb/CPUSingleCycle/tb_ZeroExtender.vhd
+Z190 FU:/CprE381/projectb/CPUSingleCycle/tb_ZeroExtender.vhd
+l0
+L4 1
+Vk^MjRKG0o^<UKk>0RF@<Q0
+!s100 ?[M`DJe^0g3T=`>Q7MQKz0
+R6
+32
+Z191 !s110 1603506784
+!i10b 1
+R186
+Z192 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/tb_ZeroExtender.vhd|
+Z193 !s107 U:/CprE381/projectb/CPUSingleCycle/tb_ZeroExtender.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 15 tb_zeroextender 0 22 k^MjRKG0o^<UKk>0RF@<Q0
+!i122 183
+l20
+L8 38
+V7>;l<fQFlKWdj2l;1dnQf1
+!s100 YTlH;HD>BIma>D2]QY?GB3
+R6
+32
+R191
+!i10b 1
+R186
+R192
+R193
+!i113 0
+R11
+R12
+Ethirtytwobitalu
+R127
+R2
+R3
+!i122 184
+R0
+Z194 8U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitALU.vhd
+Z195 FU:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitALU.vhd
+l0
+L4 1
+VhLnWH8JXCW188hA^^oh;50
+!s100 5LDUYk>UedSzgCNDfDeX91
+R6
+32
+R191
+!i10b 1
+Z196 !s108 1603506784.000000
+Z197 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitALU.vhd|
+Z198 !s107 U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitALU.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 15 thirtytwobitalu 0 22 hLnWH8JXCW188hA^^oh;50
+!i122 184
+l74
+L19 158
+VaQ0ecW@JILK_Rj5MTl:zg1
+!s100 2LQ`1gWjZReVhTiT3Dd^R0
+R6
+32
+R191
+!i10b 1
+R196
+R197
+R198
+!i113 0
+R11
+R12
+Ethirtytwobitdecoder
+R13
+R2
+R3
+!i122 188
+R0
+Z199 8U:/CprE381/projectb/CPUSingleCycle/ThrityTwoBitDecoder.vhd
+Z200 FU:/CprE381/projectb/CPUSingleCycle/ThrityTwoBitDecoder.vhd
+l0
+L4 1
+V1[AP]MY6<BC[XFmVC<91D3
+!s100 lT4>:XT:@==Aeh=kikoOc3
+R6
+32
+Z201 !s110 1603506785
+!i10b 1
+Z202 !s108 1603506785.000000
+Z203 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ThrityTwoBitDecoder.vhd|
+Z204 !s107 U:/CprE381/projectb/CPUSingleCycle/ThrityTwoBitDecoder.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 19 thirtytwobitdecoder 0 22 1[AP]MY6<BC[XFmVC<91D3
+!i122 188
+l13
+L11 40
+VIYM6e3N9^J?ok?AMNUi;[0
+!s100 UcBMjznLWO36G_;onU9A]3
+R6
+32
+R201
+!i10b 1
+R202
+R203
+R204
+!i113 0
+R11
+R12
+Ethirtytwobittwotoonemux
+R127
+R2
+R3
+!i122 185
+R0
+Z205 8U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitTwoToOneMux.vhd
+Z206 FU:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitTwoToOneMux.vhd
+l0
+L4 1
+VeOeaHbWz3N4Of[dke?n[`2
+!s100 40GM_b`RmY`^LnGG;RCX@1
+R6
+32
+R191
+!i10b 1
+R196
+Z207 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitTwoToOneMux.vhd|
+Z208 !s107 U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoBitTwoToOneMux.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 23 thirtytwobittwotoonemux 0 22 eOeaHbWz3N4Of[dke?n[`2
+!i122 185
+l13
+R42
+VbYIocaMhV?z2NEjZAgXbX2
+!s100 geOVd3]a;fB6XY43Wi]Cj2
+R6
+32
+R191
+!i10b 1
+R196
+R207
+R208
+!i113 0
+R11
+R12
+Ethirtytwoinputor
+R127
+R2
+R3
+!i122 186
+R0
+Z209 8U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoInputOr.vhd
+Z210 FU:/CprE381/projectb/CPUSingleCycle/ThirtyTwoInputOr.vhd
+l0
+L4 1
+VYUYDKX6^`<h3d@l[coQc?3
+!s100 3MOPCO;UFck`[TDMRgn;c2
+R6
+32
+R201
+!i10b 1
+R196
+Z211 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoInputOr.vhd|
+Z212 !s107 U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoInputOr.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 16 thirtytwoinputor 0 22 YUYDKX6^`<h3d@l[coQc?3
+!i122 186
+l13
+R25
+VmQ17Daj7Vf1`MnLoCU<b30
+!s100 nZ7>2S]nomOJ8UR:ZhKzk0
+R6
+32
+R201
+!i10b 1
+R196
+R211
+R212
+!i113 0
+R11
+R12
+Ethirtytwotoonemux
+R127
+R2
+R3
+!i122 187
+R0
+Z213 8U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoToOneMux.vhd
+Z214 FU:/CprE381/projectb/CPUSingleCycle/ThirtyTwoToOneMux.vhd
+l0
+L4 1
+V3JRK5H:MTbheO;>1FUQ:k2
+!s100 WDjZeVFj^]iiNVAKVTQHS0
+R6
+32
+R201
+!i10b 1
+R202
+Z215 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoToOneMux.vhd|
+Z216 !s107 U:/CprE381/projectb/CPUSingleCycle/ThirtyTwoToOneMux.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 17 thirtytwotoonemux 0 22 3JRK5H:MTbheO;>1FUQ:k2
+!i122 187
+l14
+L12 40
+V7HLeL>:WPkh9^6NK:01`_0
+!s100 P=E9_@1dKYhWb=_cUV:U01
+R6
+32
+R201
+!i10b 1
+R202
+R215
+R216
+!i113 0
+R11
+R12
+Etwentysixinputshiftlefttwo
+Z217 w1602921706
+R2
+R3
+!i122 189
+R0
+Z218 8U:/CprE381/projectb/CPUSingleCycle/TwentySixInputShiftLeftTwo.vhd
+Z219 FU:/CprE381/projectb/CPUSingleCycle/TwentySixInputShiftLeftTwo.vhd
+l0
+L4 1
+Vjk]ef`SOHB^@BgO]TETg51
+!s100 @9I0j94XPZ0ShIFjj<oFz0
+R6
+32
+Z220 !s110 1603506786
+!i10b 1
+Z221 !s108 1603506786.000000
+Z222 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/TwentySixInputShiftLeftTwo.vhd|
+Z223 !s107 U:/CprE381/projectb/CPUSingleCycle/TwentySixInputShiftLeftTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 26 twentysixinputshiftlefttwo 0 22 jk]ef`SOHB^@BgO]TETg51
+!i122 189
+l15
+L11 17
+V`P_5XC1ZMdmBc[ibDGHC80
+!s100 hh34`FHNMBbZ35h_PV]JH1
+R6
+32
+R220
+!i10b 1
+R221
+R222
+R223
+!i113 0
+R11
+R12
+Etwotoonemux
+R13
+R2
+R3
+!i122 190
+R0
+Z224 8U:/CprE381/projectb/CPUSingleCycle/TwoToOneMux.vhd
+Z225 FU:/CprE381/projectb/CPUSingleCycle/TwoToOneMux.vhd
+l0
+L7 1
+V@z_VWlU[UDb1S2WBJQ2>N2
+!s100 i]hM:d?^?Hi<RdM@>87Wj0
+R6
+32
+R220
+!i10b 1
+R221
+Z226 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/TwoToOneMux.vhd|
+Z227 !s107 U:/CprE381/projectb/CPUSingleCycle/TwoToOneMux.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 11 twotoonemux 0 22 @z_VWlU[UDb1S2WBJQ2>N2
+!i122 190
+l54
+L17 71
+VOigUWB_2>[=1IVWILdoED0
+!s100 QDV6`=G@[80OC2Fak];?T2
+R6
+32
+R220
+!i10b 1
+R221
+R226
+R227
+!i113 0
+R11
+R12
+Etwotoonemuxnbit
+R13
+R2
+R3
+!i122 191
+R0
+Z228 8U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBit.vhd
+Z229 FU:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBit.vhd
+l0
+L7 1
+VXgoe]zQo1jZEBmHgNE7AC0
+!s100 RNI91cnEFBcDTTVBGF1MH0
+R6
+32
+R220
+!i10b 1
+R221
+Z230 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBit.vhd|
+Z231 !s107 U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBit.vhd|
+!i113 0
+R11
+R12
+Astructure
+R2
+R3
+DEx4 work 15 twotoonemuxnbit 0 22 Xgoe]zQo1jZEBmHgNE7AC0
+!i122 191
+l56
+L18 77
+V3g60@G80>[ji>47mO81z03
+!s100 _?omIiJABPG_M7k74HVD@3
+R6
+32
+R220
+!i10b 1
+R221
+R230
+R231
+!i113 0
+R11
+R12
+Etwotoonemuxnbitdataflow
+R13
+R2
+R3
+!i122 192
+R0
+Z232 8U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBitDataflow.vhd
+Z233 FU:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBitDataflow.vhd
+l0
+L7 1
+VPh>[@K^GWKC52]]GL[6=h0
+!s100 S^8Y8K3iE`n8_R;o^0Vnz0
+R6
+32
+Z234 !s110 1603506787
+!i10b 1
+Z235 !s108 1603506787.000000
+Z236 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBitDataflow.vhd|
+Z237 !s107 U:/CprE381/projectb/CPUSingleCycle/TwoToOneMuxNBitDataflow.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 23 twotoonemuxnbitdataflow 0 22 Ph>[@K^GWKC52]]GL[6=h0
+!i122 192
+l26
+L18 30
+VSi>0]gG9QFeoa?dgKb3R21
+!s100 7FC85UlBKXUA_8=^ihm<W2
+R6
+32
+R234
+!i10b 1
+R235
+R236
+R237
+!i113 0
+R11
+R12
+Exorg2
+Z238 w1602699879
+R2
+R3
+!i122 193
+R0
+Z239 8U:/CprE381/projectb/CPUSingleCycle/xorg2.vhd
+Z240 FU:/CprE381/projectb/CPUSingleCycle/xorg2.vhd
+l0
+R16
+V;hb`C0MKik;h36`3`SzM60
+!s100 [hI[mXFH4_j16U;>U1Lfn2
+R6
+32
+R234
+!i10b 1
+R235
+Z241 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/xorg2.vhd|
+Z242 !s107 U:/CprE381/projectb/CPUSingleCycle/xorg2.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+DEx4 work 5 xorg2 0 22 ;hb`C0MKik;h36`3`SzM60
+!i122 193
+l32
+R20
+VbmLohbkYjJQ`?EHUY>LoL1
+!s100 Z6[FAPS4fBLB`F?OO<AY72
+R6
+32
+R234
+!i10b 1
+R235
+R241
+R242
+!i113 0
+R11
+R12
+Exorgatetwo
+R238
+R2
+R3
+!i122 194
+R0
+Z243 8U:/CprE381/projectb/CPUSingleCycle/xorGateTwo.vhd
+Z244 FU:/CprE381/projectb/CPUSingleCycle/xorGateTwo.vhd
+l0
+L4 1
+V`B_5:_e3AFZ<bkZT6hjC60
+!s100 T29B9IYoGhQN;1jkoD10i1
+R6
+32
+R234
+!i10b 1
+R235
+Z245 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/xorGateTwo.vhd|
+Z246 !s107 U:/CprE381/projectb/CPUSingleCycle/xorGateTwo.vhd|
+!i113 0
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 10 xorgatetwo 0 22 `B_5:_e3AFZ<bkZT6hjC60
+!i122 194
+l13
+R25
+V^?nX0G@6MEbHJ]lGSeb2b1
+!s100 J]KYBAMjmRfhBz9LcV:[U2
+R6
+32
+R234
+!i10b 1
+R235
+R245
+R246
+!i113 0
+R11
+R12
+Ezeroextender
+Z247 w1603497127
+R2
+R3
+!i122 195
+R0
+Z248 8U:/CprE381/projectb/CPUSingleCycle/ZeroExtender.vhd
+Z249 FU:/CprE381/projectb/CPUSingleCycle/ZeroExtender.vhd
+l0
+L4 1
+VKWGT[Hfzzb2c=lQX@L`iR2
+!s100 z5164AHHmlLji4oDXOJEb3
+R6
+32
+Z250 !s110 1603506788
+!i10b 1
+Z251 !s108 1603506788.000000
+Z252 !s90 -reportprogress|30|-work|work|U:/CprE381/projectb/CPUSingleCycle/ZeroExtender.vhd|
+Z253 !s107 U:/CprE381/projectb/CPUSingleCycle/ZeroExtender.vhd|
+!i113 0
+R11
+R12
+Adataflow
+R2
+R3
+Z254 DEx4 work 12 zeroextender 0 22 KWGT[Hfzzb2c=lQX@L`iR2
+!i122 195
+l16
+Z255 L12 20
+Z256 VDV:NMHdRzQPFZ?V459e451
+Z257 !s100 i9O7ZLeInDU1cUBUP]:g20
+R6
+32
+R250
+!i10b 1
+R251
+R252
+R253
+!i113 0
+R11
+R12
