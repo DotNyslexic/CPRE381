@@ -1,4 +1,4 @@
-# CPRE381
+# CPRE 381 (Fall 2020)
 In this course I created a simple computer processor. The early labs help to prepare us for when we would be implementing both a single-cycle and a pipelined processor. Pretty much all the labs required us to use VHDL to represent logical operations. A lot of the labs have the test bench outputs included to verify functionality.
 
 ###### Lab 1
@@ -20,4 +20,4 @@ In Project A we were tasked with creating a 32-bit arithmetic logic unit (ALU). 
 In Project B we moved on to making a single-cycle processor. My main task in my group was to ensure the instruction decoder was working properly. Pretty much every compoenent we created needed to be used in this processor, so there was a large number of files included in the final design. To verify, we used a test script provided by our professor.
 
 ###### Project C
-In our final project we were to turn our single-cycle processor into a pipelied processor. This involved adding some equality checks and adding the actual pipeline stages where needed. We mainly got the design of the pipeline processor down as this semsester (F20) was heavily affected by COVID-19.
+In our final project we were to turn our single-cycle processor into a pipelied processor. This involved adding some equality checks and adding the actual pipeline stages where needed. We mainly got the design of the pipeline processor down as this semsester was heavily affected by COVID-19.
