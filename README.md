@@ -6,3 +6,6 @@ We didn't really make anything in this lab. Just used files created by our instr
 
 ###### Lab 2
 Create a unit to take the one's complement of a number. Also create a two to one MUX. Create a functional full adder. Lastly, create a Fully functioning adder/subtractor arithmetic logic unit (ALU).
+
+###### Lab 3
+Begin working with stored (register) values. Create a decoder and a MUX for the Microprocessor without Interlocked Pipelined Stages (MIPS) application. Finally, implement MIPS application that is capable of adding/subtracting values in addition to storing them.
