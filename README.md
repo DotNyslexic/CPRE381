@@ -12,3 +12,6 @@ Begin working with stored (register) values. Create a decoder and a MUX for the 
 
 ###### Lab 4
 Use the previously created MIPS app, but now store the calculated values in memory (RAM). Also create a signed number extender so components can communicate if they are not working with the same width bus.
+
+###### Project A
+In Project A we were tasked with creating a 32-bit arithmetic logic unit (ALU). In addidion to the ALU, a barrel shifter needed to be created for multiplication / division. I primarily worked with the 32-bit ALU's functionality.
