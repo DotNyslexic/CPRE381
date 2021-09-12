@@ -15,3 +15,6 @@ Use the previously created MIPS app, but now store the calculated values in memo
 
 ###### Project A
 In Project A we were tasked with creating a 32-bit arithmetic logic unit (ALU). In addidion to the ALU, a barrel shifter needed to be created for multiplication / division. As this would be a lot of work for one person, I primarily worked with the 32-bit ALU's functionality.
+
+###### Project B
+In Project B we moved on to making a single-cycle processor. My main task in my group was to ensure the instruction decoder was working properly. Pretty much every compoenent we created needed to be used in this processor, so there was a large number of files included in the final design.
